@@ -4,7 +4,7 @@ Nesta apresentação, eu estarei utilizando dados abertos disponibilizados pela 
 
 Para este estudo, utilizarei de um dataset da Hastag Treinamentos:
 
-Vendas.xlsx: possui os dados sobre sobre vendas de uma rede de lojas de produtos eletrônicos. Data, Produtos, Preço, Clientes e Localização serão encontrados nesse conjunto de dados.
+Vendas.xlxs : possui os dados sobre sobre vendas de uma rede de lojas de produtos eletrônicos. Data, Produtos, Preço, Clientes e Localização serão encontrados nesse conjunto de dados.
 
 # Perguntas a serem respondidas
 1.	Qual o faturamento total da empresa?
