@@ -1,4 +1,4 @@
-# Dashboard-de-Vendas
+# Dashboard de Vendas
 Dashboard e relatórios
 Nesta apresentação, eu estarei utilizando dados abertos disponibilizados pela Hastag Treinamentos em um intensivão de Power BI. Tais arquivos conterão informações sobre vendas de uma rede de lojas de produtos eletrônicos, mas, caso deseje, poderá estar realizando o download do dataset utilizado aqui através do link de download abaixo.
 
